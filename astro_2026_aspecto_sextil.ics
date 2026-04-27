@@ -1,0 +1,1256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PG//Astro Digital//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Astro 2026 — Aspectos: Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:d2d3d613301638cc@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260101T075434Z
+DTEND:20260101T085434Z
+SUMMARY:✶ Sol Sextil Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol sextil ☊ Nodo Norte.\n\nOpor
+ tunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:23608d14a223003c@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260102T054552Z
+DTEND:20260102T064552Z
+SUMMARY:✶ Venus Sextil Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ☊ Nodo Norte.\n\nOp
+ ortunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cea58534816f91ee@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260108T122955Z
+DTEND:20260108T132955Z
+SUMMARY:✶ Mercurio Sextil Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio sextil ☊ Nodo Norte.\n\
+ nOportunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tr
+ opical geocéntrico por interpolación diaria. Nota: este prototipo separa
+  aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5ced45c5692f4ae2@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260115T061848Z
+DTEND:20260115T071848Z
+SUMMARY:✶ Venus Sextil Saturno
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ♄ Saturno.\n\nOport
+ unidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical
+  geocéntrico por interpolación diaria. Nota: este prototipo separa aspec
+ tos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6400afe9a13330d5@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260117T083332Z
+DTEND:20260117T093332Z
+SUMMARY:✶ Venus Sextil Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ♆ Neptuno.\n\nOport
+ unidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical
+  geocéntrico por interpolación diaria. Nota: este prototipo separa aspec
+ tos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e9070ed29e086f3b@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260117T104143Z
+DTEND:20260117T114143Z
+SUMMARY:✶ Sol Sextil Saturno
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol sextil ♄ Saturno.\n\nOportun
+ idad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical g
+ eocéntrico por interpolación diaria. Nota: este prototipo separa aspecto
+ s lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ec5870c9b339ef0d@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260119T024909Z
+DTEND:20260119T034909Z
+SUMMARY:✶ Plutón Sextil Lilith
+DESCRIPTION:Aspecto exacto aproximado: ♇ Plutón sextil ⚸ Lilith.\n\nOport
+ unidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical
+  geocéntrico por interpolación diaria. Nota: este prototipo separa aspec
+ tos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d6546a1e51e20d9d@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260119T040845Z
+DTEND:20260119T050845Z
+SUMMARY:✶ Mercurio Sextil Saturno
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio sextil ♄ Saturno.\n\nOp
+ ortunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f68a63d46a90f5c0@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260119T215443Z
+DTEND:20260119T225443Z
+SUMMARY:✶ Sol Sextil Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol sextil ♆ Neptuno.\n\nOportun
+ idad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical g
+ eocéntrico por interpolación diaria. Nota: este prototipo separa aspecto
+ s lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9f02cfc4db244a1e@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260120T051813Z
+DTEND:20260120T061813Z
+SUMMARY:✶ Saturno Sextil Urano
+DESCRIPTION:Aspecto exacto aproximado: ♄ Saturno sextil ♅ Urano.\n\nOport
+ unidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical
+  geocéntrico por interpolación diaria. Nota: este prototipo separa aspec
+ tos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:67b19e80de87013d@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260120T055009Z
+DTEND:20260120T065009Z
+SUMMARY:✶ Venus Sextil Lilith
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ⚸ Lilith.\n\nOportu
+ nidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical 
+ geocéntrico por interpolación diaria. Nota: este prototipo separa aspect
+ os lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abf03d9b54738434@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260120T060156Z
+DTEND:20260120T070156Z
+SUMMARY:✶ Marte Sextil Saturno
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte sextil ♄ Saturno.\n\nOport
+ unidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical
+  geocéntrico por interpolación diaria. Nota: este prototipo separa aspec
+ tos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8198cec805267672@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260120T143321Z
+DTEND:20260120T153321Z
+SUMMARY:✶ Mercurio Sextil Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio sextil ♆ Neptuno.\n\nOp
+ ortunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:906ad735845b8bcc@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260122T213710Z
+DTEND:20260122T223710Z
+SUMMARY:✶ Mercurio Sextil Lilith
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio sextil ⚸ Lilith.\n\nOpo
+ rtunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropic
+ al geocéntrico por interpolación diaria. Nota: este prototipo separa asp
+ ectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c6e7b3d20c39b134@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260123T063920Z
+DTEND:20260123T073920Z
+SUMMARY:✶ Marte Sextil Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte sextil ♆ Neptuno.\n\nOport
+ unidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical
+  geocéntrico por interpolación diaria. Nota: este prototipo separa aspec
+ tos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3f3f7b17a6374024@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260123T193749Z
+DTEND:20260123T203749Z
+SUMMARY:✶ Sol Sextil Lilith
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol sextil ⚸ Lilith.\n\nOportuni
+ dad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical ge
+ océntrico por interpolación diaria. Nota: este prototipo separa aspectos
+  lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d6e76d9915552008@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260129T002324Z
+DTEND:20260129T012324Z
+SUMMARY:✶ Marte Sextil Lilith
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte sextil ⚸ Lilith.\n\nOportu
+ nidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical 
+ geocéntrico por interpolación diaria. Nota: este prototipo separa aspect
+ os lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c544af57de971ce3@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260304T164055Z
+DTEND:20260304T174055Z
+SUMMARY:✶ Venus Sextil Urano
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ♅ Urano.\n\nOportun
+ idad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical g
+ eocéntrico por interpolación diaria. Nota: este prototipo separa aspecto
+ s lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:04a513a2dfa4c1f7@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260310T065158Z
+DTEND:20260310T075158Z
+SUMMARY:✶ Venus Sextil Plutón
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ♇ Plutón.\n\nOportu
+ nidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical 
+ geocéntrico por interpolación diaria. Nota: este prototipo separa aspect
+ os lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6fe7f83f0772ce62@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260318T202021Z
+DTEND:20260318T212021Z
+SUMMARY:✶ Sol Sextil Urano
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol sextil ♅ Urano.\n\nOportunid
+ ad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical geo
+ céntrico por interpolación diaria. Nota: este prototipo separa aspectos 
+ lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e03e2708737736d2@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260325T181614Z
+DTEND:20260325T191614Z
+SUMMARY:✶ Sol Sextil Plutón
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol sextil ♇ Plutón.\n\nOportuni
+ dad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical ge
+ océntrico por interpolación diaria. Nota: este prototipo separa aspectos
+  lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1f63f8f1636d4eb3@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260328T220937Z
+DTEND:20260328T230937Z
+SUMMARY:✶ Saturno Sextil Plutón
+DESCRIPTION:Aspecto exacto aproximado: ♄ Saturno sextil ♇ Plutón.\n\nOpor
+ tunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:211c82a073c73d65@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260406T092707Z
+DTEND:20260406T102707Z
+SUMMARY:✶ Venus Sextil Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ☊ Nodo Norte.\n\nOp
+ ortunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3f447f0112399ec8@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260408T161136Z
+DTEND:20260408T171136Z
+SUMMARY:✶ Marte Sextil Urano
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte sextil ♅ Urano.\n\nOportun
+ idad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical g
+ eocéntrico por interpolación diaria. Nota: este prototipo separa aspecto
+ s lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:535fc30fc99d9fa2@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260413T082128Z
+DTEND:20260413T092128Z
+SUMMARY:✶ Venus Sextil Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ♃ Júpiter.\n\nOport
+ unidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical
+  geocéntrico por interpolación diaria. Nota: este prototipo separa aspec
+ tos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b60de3842d74300f@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260414T170655Z
+DTEND:20260414T180655Z
+SUMMARY:✶ Mercurio Sextil Urano
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio sextil ♅ Urano.\n\nOpor
+ tunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:df7512fc973d4739@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260416T185541Z
+DTEND:20260416T195541Z
+SUMMARY:✶ Marte Sextil Plutón
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte sextil ♇ Plutón.\n\nOportu
+ nidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical 
+ geocéntrico por interpolación diaria. Nota: este prototipo separa aspect
+ os lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1cc6dad7a8edac9a@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260418T203232Z
+DTEND:20260418T213232Z
+SUMMARY:✶ Mercurio Sextil Plutón
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio sextil ♇ Plutón.\n\nOpo
+ rtunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropic
+ al geocéntrico por interpolación diaria. Nota: este prototipo separa asp
+ ectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d25f8e3178b14539@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260426T174248Z
+DTEND:20260426T184248Z
+SUMMARY:✶ Venus Sextil Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ♆ Neptuno.\n\nOport
+ unidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical
+  geocéntrico por interpolación diaria. Nota: este prototipo separa aspec
+ tos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:551db37b4544ff51@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260427T143322Z
+DTEND:20260427T153322Z
+SUMMARY:✶ Sol Sextil Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol sextil ☊ Nodo Norte.\n\nOpor
+ tunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1897eb6a799e1f83@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260501T184516Z
+DTEND:20260501T194516Z
+SUMMARY:✶ Venus Sextil Saturno
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ♄ Saturno.\n\nOport
+ unidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical
+  geocéntrico por interpolación diaria. Nota: este prototipo separa aspec
+ tos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ea03a12f4a7dfeaf@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260506T044021Z
+DTEND:20260506T054021Z
+SUMMARY:✶ Mercurio Sextil Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio sextil ☊ Nodo Norte.\n\
+ nOportunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tr
+ opical geocéntrico por interpolación diaria. Nota: este prototipo separa
+  aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9ff39786c7b93b2b@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260511T021356Z
+DTEND:20260511T031356Z
+SUMMARY:✶ Sol Sextil Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol sextil ♃ Júpiter.\n\nOportun
+ idad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical g
+ eocéntrico por interpolación diaria. Nota: este prototipo separa aspecto
+ s lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1a065f7aec319497@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260513T044305Z
+DTEND:20260513T054305Z
+SUMMARY:✶ Mercurio Sextil Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio sextil ♃ Júpiter.\n\nOp
+ ortunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7ec847cb24339c73@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260519T040539Z
+DTEND:20260519T050539Z
+SUMMARY:✶ Mercurio Sextil Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio sextil ♆ Neptuno.\n\nOp
+ ortunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:88bb5e81809da5d7@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260519T053705Z
+DTEND:20260519T063705Z
+SUMMARY:✶ Venus Sextil Marte
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ♂ Marte.\n\nOportun
+ idad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical g
+ eocéntrico por interpolación diaria. Nota: este prototipo separa aspecto
+ s lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3e5618ce1496260c@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260522T180421Z
+DTEND:20260522T190421Z
+SUMMARY:✶ Mercurio Sextil Saturno
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio sextil ♄ Saturno.\n\nOp
+ ortunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1c7ca6665b431768@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260522T233012Z
+DTEND:20260523T003012Z
+SUMMARY:✶ Venus Sextil Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ☋ Nodo Sur.\n\nOpor
+ tunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:84bdd4bbb2da0d33@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260525T022210Z
+DTEND:20260525T032210Z
+SUMMARY:✶ Sol Sextil Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol sextil ♆ Neptuno.\n\nOportun
+ idad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical g
+ eocéntrico por interpolación diaria. Nota: este prototipo separa aspecto
+ s lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1cce3233bb4eb0a3@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260525T040637Z
+DTEND:20260525T050637Z
+SUMMARY:✶ Marte Sextil Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte sextil ☊ Nodo Norte.\n\nOp
+ ortunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a7295423641f6f95@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260602T224842Z
+DTEND:20260602T234842Z
+SUMMARY:✶ Sol Sextil Saturno
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol sextil ♄ Saturno.\n\nOportun
+ idad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical g
+ eocéntrico por interpolación diaria. Nota: este prototipo separa aspecto
+ s lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e1b071e66949f7eb@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260603T095344Z
+DTEND:20260603T105344Z
+SUMMARY:✶ Mercurio Sextil Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio sextil ☋ Nodo Sur.\n\nO
+ portunidad amable: abrí conversación y probá sin forzar.\n\nCálculo trop
+ ical geocéntrico por interpolación diaria. Nota: este prototipo separa a
+ spectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c893ad0d6fc76fe6@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260615T225255Z
+DTEND:20260615T235255Z
+SUMMARY:✶ Venus Sextil Urano
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ♅ Urano.\n\nOportun
+ idad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical g
+ eocéntrico por interpolación diaria. Nota: este prototipo separa aspecto
+ s lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7570caba35be3dc6@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260623T080241Z
+DTEND:20260623T090241Z
+SUMMARY:✶ Sol Sextil Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol sextil ☋ Nodo Sur.\n\nOportu
+ nidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical 
+ geocéntrico por interpolación diaria. Nota: este prototipo separa aspect
+ os lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dd897ae4d8e13912@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260628T045048Z
+DTEND:20260628T055048Z
+SUMMARY:✶ Marte Sextil Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte sextil ♃ Júpiter.\n\nOport
+ unidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical
+  geocéntrico por interpolación diaria. Nota: este prototipo separa aspec
+ tos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bb1e3b8874cf548e@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260705T004414Z
+DTEND:20260705T014414Z
+SUMMARY:✶ Marte Sextil Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte sextil ♆ Neptuno.\n\nOport
+ unidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical
+  geocéntrico por interpolación diaria. Nota: este prototipo separa aspec
+ tos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2094e55d5e6aba71@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260715T203209Z
+DTEND:20260715T213209Z
+SUMMARY:✶ Urano Sextil Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ♅ Urano sextil ♆ Neptuno.\n\nOport
+ unidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical
+  geocéntrico por interpolación diaria. Nota: este prototipo separa aspec
+ tos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c52d81ae5b13494c@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260719T181048Z
+DTEND:20260719T191048Z
+SUMMARY:✶ Marte Sextil Saturno
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte sextil ♄ Saturno.\n\nOport
+ unidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical
+  geocéntrico por interpolación diaria. Nota: este prototipo separa aspec
+ tos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2bb0aac31bfaaa1d@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260721T110939Z
+DTEND:20260721T120939Z
+SUMMARY:✶ Júpiter Sextil Urano
+DESCRIPTION:Aspecto exacto aproximado: ♃ Júpiter sextil ♅ Urano.\n\nOport
+ unidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical
+  geocéntrico por interpolación diaria. Nota: este prototipo separa aspec
+ tos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0e7cb394b2356e78@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260724T162805Z
+DTEND:20260724T172805Z
+SUMMARY:✶ Mercurio Sextil Venus
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio sextil ♀ Venus.\n\nOpor
+ tunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ab8c99924d2b6b4c@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260725T053039Z
+DTEND:20260725T063039Z
+SUMMARY:✶ Neptuno Sextil Plutón
+DESCRIPTION:Aspecto exacto aproximado: ♆ Neptuno sextil ♇ Plutón.\n\nOpor
+ tunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8062698cf9a92757@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260727T213624Z
+DTEND:20260727T223624Z
+SUMMARY:✶ Sol Sextil Urano
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol sextil ♅ Urano.\n\nOportunid
+ ad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical geo
+ céntrico por interpolación diaria. Nota: este prototipo separa aspectos 
+ lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d3f08bd99a62333a@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260811T014437Z
+DTEND:20260811T024437Z
+SUMMARY:✶ Marte Sextil Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte sextil ☋ Nodo Sur.\n\nOpor
+ tunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2742f05088e273a3@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260812T204504Z
+DTEND:20260812T214504Z
+SUMMARY:✶ Mercurio Sextil Urano
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio sextil ♅ Urano.\n\nOpor
+ tunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:266bd845b6749e18@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260813T161217Z
+DTEND:20260813T171217Z
+SUMMARY:✶ Mercurio Sextil Venus
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio sextil ♀ Venus.\n\nOpor
+ tunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fa64129b061f9d15@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260817T161711Z
+DTEND:20260817T171711Z
+SUMMARY:✶ Venus Sextil Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ♃ Júpiter.\n\nOport
+ unidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical
+  geocéntrico por interpolación diaria. Nota: este prototipo separa aspec
+ tos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8f61100484f847e3@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260901T132351Z
+DTEND:20260901T142351Z
+SUMMARY:✶ Mercurio Sextil Marte
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio sextil ♂ Marte.\n\nOpor
+ tunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5173cb8cc49083f8@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260909T105852Z
+DTEND:20260909T115852Z
+SUMMARY:✶ Venus Sextil Lilith
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ⚸ Lilith.\n\nOportu
+ nidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical 
+ geocéntrico por interpolación diaria. Nota: este prototipo separa aspect
+ os lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:362aa8403798e8ba@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260910T014247Z
+DTEND:20260910T024247Z
+SUMMARY:✶ Venus Sextil Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ☋ Nodo Sur.\n\nOpor
+ tunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:237d3ba05238dbc4@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260912T131435Z
+DTEND:20260912T141435Z
+SUMMARY:✶ Nodo Norte Sextil Lilith
+DESCRIPTION:Aspecto exacto aproximado: ☊ Nodo Norte sextil ⚸ Lilith.\n\nO
+ portunidad amable: abrí conversación y probá sin forzar.\n\nCálculo trop
+ ical geocéntrico por interpolación diaria. Nota: este prototipo separa a
+ spectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c9923e112d5e7904@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260914T195211Z
+DTEND:20260914T205211Z
+SUMMARY:✶ Sol Sextil Marte
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol sextil ♂ Marte.\n\nOportunid
+ ad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical geo
+ céntrico por interpolación diaria. Nota: este prototipo separa aspectos 
+ lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:94aed8292d108777@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260916T020727Z
+DTEND:20260916T030727Z
+SUMMARY:✶ Neptuno Sextil Plutón
+DESCRIPTION:Aspecto exacto aproximado: ♆ Neptuno sextil ♇ Plutón.\n\nOpor
+ tunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3cdc09e0dc806921@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260921T225125Z
+DTEND:20260921T235125Z
+SUMMARY:✶ Mercurio Sextil Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio sextil ♃ Júpiter.\n\nOp
+ ortunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:606d5025630ef57f@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260929T220534Z
+DTEND:20260929T230534Z
+SUMMARY:✶ Mercurio Sextil Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio sextil ☋ Nodo Sur.\n\nO
+ portunidad amable: abrí conversación y probá sin forzar.\n\nCálculo trop
+ ical geocéntrico por interpolación diaria. Nota: este prototipo separa a
+ spectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1e951ec3a5051053@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261001T224440Z
+DTEND:20261001T234440Z
+SUMMARY:✶ Mercurio Sextil Lilith
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio sextil ⚸ Lilith.\n\nOpo
+ rtunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropic
+ al geocéntrico por interpolación diaria. Nota: este prototipo separa asp
+ ectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e8b80d4287d8884d@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261007T104201Z
+DTEND:20261007T114201Z
+SUMMARY:✶ Marte Sextil Urano
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte sextil ♅ Urano.\n\nOportun
+ idad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical g
+ eocéntrico por interpolación diaria. Nota: este prototipo separa aspecto
+ s lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5dd5b8650ee4ce18@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261015T082119Z
+DTEND:20261015T092119Z
+SUMMARY:✶ Sol Sextil Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol sextil ♃ Júpiter.\n\nOportun
+ idad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical g
+ eocéntrico por interpolación diaria. Nota: este prototipo separa aspecto
+ s lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9a2012d059285d99@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261018T230454Z
+DTEND:20261019T000454Z
+SUMMARY:✶ Venus Sextil Lilith
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ⚸ Lilith.\n\nOportu
+ nidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical 
+ geocéntrico por interpolación diaria. Nota: este prototipo separa aspect
+ os lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:458e386e14c3cba3@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261021T104104Z
+DTEND:20261021T114104Z
+SUMMARY:✶ Sol Sextil Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol sextil ☋ Nodo Sur.\n\nOportu
+ nidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical 
+ geocéntrico por interpolación diaria. Nota: este prototipo separa aspect
+ os lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2527abb103a3d5bb@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261028T064644Z
+DTEND:20261028T074644Z
+SUMMARY:✶ Sol Sextil Lilith
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol sextil ⚸ Lilith.\n\nOportuni
+ dad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical ge
+ océntrico por interpolación diaria. Nota: este prototipo separa aspectos
+  lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4460499af7d7e762@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261030T123141Z
+DTEND:20261030T133141Z
+SUMMARY:✶ Venus Sextil Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ☋ Nodo Sur.\n\nOpor
+ tunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5874e14dac72f10f@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261104T104510Z
+DTEND:20261104T114510Z
+SUMMARY:✶ Venus Sextil Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ♃ Júpiter.\n\nOport
+ unidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical
+  geocéntrico por interpolación diaria. Nota: este prototipo separa aspec
+ tos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e3ca09dd29b00a94@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261110T012224Z
+DTEND:20261110T022224Z
+SUMMARY:✶ Mercurio Sextil Lilith
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio sextil ⚸ Lilith.\n\nOpo
+ rtunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropic
+ al geocéntrico por interpolación diaria. Nota: este prototipo separa asp
+ ectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:49da802a149e01d7@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261110T065820Z
+DTEND:20261110T075820Z
+SUMMARY:✶ Venus Sextil Marte
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ♂ Marte.\n\nOportun
+ idad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical g
+ eocéntrico por interpolación diaria. Nota: este prototipo separa aspecto
+ s lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a23aae547d8181e2@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261118T204703Z
+DTEND:20261118T214703Z
+SUMMARY:✶ Mercurio Sextil Lilith
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio sextil ⚸ Lilith.\n\nOpo
+ rtunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropic
+ al geocéntrico por interpolación diaria. Nota: este prototipo separa asp
+ ectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4566243c030f5eb2@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261123T141739Z
+DTEND:20261123T151739Z
+SUMMARY:✶ Venus Sextil Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ☋ Nodo Sur.\n\nOpor
+ tunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0d36a25a2f407d03@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261125T172712Z
+DTEND:20261125T182712Z
+SUMMARY:✶ Sol Sextil Plutón
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol sextil ♇ Plutón.\n\nOportuni
+ dad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical ge
+ océntrico por interpolación diaria. Nota: este prototipo separa aspectos
+  lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:928e8d28efe117ba@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261128T115259Z
+DTEND:20261128T125259Z
+SUMMARY:✶ Venus Sextil Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ♃ Júpiter.\n\nOport
+ unidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical
+  geocéntrico por interpolación diaria. Nota: este prototipo separa aspec
+ tos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4a88e5cf65be9119@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261208T193126Z
+DTEND:20261208T203126Z
+SUMMARY:✶ Mercurio Sextil Plutón
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio sextil ♇ Plutón.\n\nOpo
+ rtunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropic
+ al geocéntrico por interpolación diaria. Nota: este prototipo separa asp
+ ectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cc71c411cd5e6244@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261212T090652Z
+DTEND:20261212T100652Z
+SUMMARY:✶ Venus Sextil Marte
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ♂ Marte.\n\nOportun
+ idad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical g
+ eocéntrico por interpolación diaria. Nota: este prototipo separa aspecto
+ s lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:14af663923765b8c@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261214T051156Z
+DTEND:20261214T061156Z
+SUMMARY:✶ Sol Sextil Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol sextil ☊ Nodo Norte.\n\nOpor
+ tunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6ed3a62573653e1e@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261218T043321Z
+DTEND:20261218T053321Z
+SUMMARY:✶ Venus Sextil Lilith
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus sextil ⚸ Lilith.\n\nOportu
+ nidad amable: abrí conversación y probá sin forzar.\n\nCálculo tropical 
+ geocéntrico por interpolación diaria. Nota: este prototipo separa aspect
+ os lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ba8819903f648122@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261220T162716Z
+DTEND:20261220T172716Z
+SUMMARY:✶ Mercurio Sextil Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio sextil ☊ Nodo Norte.\n\
+ nOportunidad amable: abrí conversación y probá sin forzar.\n\nCálculo tr
+ opical geocéntrico por interpolación diaria. Nota: este prototipo separa
+  aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Sextil
+COLOR:green
+X-APPLE-CALENDAR-COLOR:green
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

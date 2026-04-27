@@ -1,0 +1,735 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PG//Astro Digital//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Astro 2026 — Aspectos: Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:ce06d842bc9ae443@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260106T163602Z
+DTEND:20260106T173602Z
+SUMMARY:☌ Sol Conjunción Venus
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol conjunción ♀ Venus.\n\nFusió
+ n de energías: observá qué tema pide inicio o integración.\n\nCálculo tr
+ opical geocéntrico por interpolación diaria. Nota: este prototipo separa
+  aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:892d4d47b5677c8f@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260108T024323Z
+DTEND:20260108T034323Z
+SUMMARY:☌ Venus Conjunción Marte
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus conjunción ♂ Marte.\n\nFus
+ ión de energías: observá qué tema pide inicio o integración.\n\nCálculo 
+ tropical geocéntrico por interpolación diaria. Nota: este prototipo sepa
+ ra aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fb997e96604754d1@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260109T114139Z
+DTEND:20260109T124139Z
+SUMMARY:☌ Sol Conjunción Marte
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol conjunción ♂ Marte.\n\nFusió
+ n de energías: observá qué tema pide inicio o integración.\n\nCálculo tr
+ opical geocéntrico por interpolación diaria. Nota: este prototipo separa
+  aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a4bbebe73c35b7ec@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260118T073900Z
+DTEND:20260118T083900Z
+SUMMARY:☌ Mercurio Conjunción Marte
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio conjunción ♂ Marte.\n\n
+ Fusión de energías: observá qué tema pide inicio o integración.\n\nCálcu
+ lo tropical geocéntrico por interpolación diaria. Nota: este prototipo s
+ epara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:935061f90725b07a@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260120T040414Z
+DTEND:20260120T050414Z
+SUMMARY:☌ Venus Conjunción Plutón
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus conjunción ♇ Plutón.\n\nFu
+ sión de energías: observá qué tema pide inicio o integración.\n\nCálculo
+  tropical geocéntrico por interpolación diaria. Nota: este prototipo sep
+ ara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e8d4630bdb8e0643@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260121T154632Z
+DTEND:20260121T164632Z
+SUMMARY:☌ Sol Conjunción Mercurio
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol conjunción ☿ Mercurio.\n\nFu
+ sión de energías: observá qué tema pide inicio o integración.\n\nCálculo
+  tropical geocéntrico por interpolación diaria. Nota: este prototipo sep
+ ara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3d6cee0d3a3bc83c@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260122T171354Z
+DTEND:20260122T181354Z
+SUMMARY:☌ Mercurio Conjunción Plutón
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio conjunción ♇ Plutón.\n\
+ nFusión de energías: observá qué tema pide inicio o integración.\n\nCálc
+ ulo tropical geocéntrico por interpolación diaria. Nota: este prototipo 
+ separa aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6993de9bf331d7f1@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260123T102807Z
+DTEND:20260123T112807Z
+SUMMARY:☌ Sol Conjunción Plutón
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol conjunción ♇ Plutón.\n\nFusi
+ ón de energías: observá qué tema pide inicio o integración.\n\nCálculo t
+ ropical geocéntrico por interpolación diaria. Nota: este prototipo separ
+ a aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fd4298e3fcb1dc4d@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260127T230107Z
+DTEND:20260128T000107Z
+SUMMARY:☌ Marte Conjunción Plutón
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte conjunción ♇ Plutón.\n\nFu
+ sión de energías: observá qué tema pide inicio o integración.\n\nCálculo
+  tropical geocéntrico por interpolación diaria. Nota: este prototipo sep
+ ara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d7be704478ed41b5@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260129T101421Z
+DTEND:20260129T111421Z
+SUMMARY:☌ Mercurio Conjunción Venus
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio conjunción ♀ Venus.\n\n
+ Fusión de energías: observá qué tema pide inicio o integración.\n\nCálcu
+ lo tropical geocéntrico por interpolación diaria. Nota: este prototipo s
+ epara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7fc9fbc14bd6b87b@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260212T070506Z
+DTEND:20260212T080506Z
+SUMMARY:☌ Mercurio Conjunción Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio conjunción ☊ Nodo Norte
+ .\n\nFusión de energías: observá qué tema pide inicio o integración.\n\n
+ Cálculo tropical geocéntrico por interpolación diaria. Nota: este protot
+ ipo separa aspectos lunares rápidos y conserva fases/eclipses para la Lu
+ na.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e2807b5da7c5c221@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260217T134532Z
+DTEND:20260217T144532Z
+SUMMARY:☌ Venus Conjunción Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus conjunción ☊ Nodo Norte.\n
+ \nFusión de energías: observá qué tema pide inicio o integración.\n\nCál
+ culo tropical geocéntrico por interpolación diaria. Nota: este prototipo
+  separa aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eea38c4d564e7a87@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260220T165129Z
+DTEND:20260220T175129Z
+SUMMARY:☌ Saturno Conjunción Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ♄ Saturno conjunción ♆ Neptuno.\n\
+ nFusión de energías: observá qué tema pide inicio o integración.\n\nCálc
+ ulo tropical geocéntrico por interpolación diaria. Nota: este prototipo 
+ separa aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:704111c0eeedc3e3@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260227T135756Z
+DTEND:20260227T145756Z
+SUMMARY:☌ Sol Conjunción Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol conjunción ☊ Nodo Norte.\n\n
+ Fusión de energías: observá qué tema pide inicio o integración.\n\nCálcu
+ lo tropical geocéntrico por interpolación diaria. Nota: este prototipo s
+ epara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6e20c13a0d1f1532@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260228T052247Z
+DTEND:20260228T062247Z
+SUMMARY:☌ Mercurio Conjunción Venus
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio conjunción ♀ Venus.\n\n
+ Fusión de energías: observá qué tema pide inicio o integración.\n\nCálcu
+ lo tropical geocéntrico por interpolación diaria. Nota: este prototipo s
+ epara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:61fa619bb180c024@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260307T110012Z
+DTEND:20260307T120012Z
+SUMMARY:☌ Sol Conjunción Mercurio
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol conjunción ☿ Mercurio.\n\nFu
+ sión de energías: observá qué tema pide inicio o integración.\n\nCálculo
+  tropical geocéntrico por interpolación diaria. Nota: este prototipo sep
+ ara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0a8c181e33b62ce8@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260307T112723Z
+DTEND:20260307T122723Z
+SUMMARY:☌ Venus Conjunción Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus conjunción ♆ Neptuno.\n\nF
+ usión de energías: observá qué tema pide inicio o integración.\n\nCálcul
+ o tropical geocéntrico por interpolación diaria. Nota: este prototipo se
+ para aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b8bc26fe129cf34d@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260308T133946Z
+DTEND:20260308T143946Z
+SUMMARY:☌ Venus Conjunción Saturno
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus conjunción ♄ Saturno.\n\nF
+ usión de energías: observá qué tema pide inicio o integración.\n\nCálcul
+ o tropical geocéntrico por interpolación diaria. Nota: este prototipo se
+ para aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:95e45f522c77883c@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260313T214822Z
+DTEND:20260313T224822Z
+SUMMARY:☌ Marte Conjunción Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte conjunción ☊ Nodo Norte.\n
+ \nFusión de energías: observá qué tema pide inicio o integración.\n\nCál
+ culo tropical geocéntrico por interpolación diaria. Nota: este prototipo
+  separa aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a4aea0ef0c9eb45a@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260315T082016Z
+DTEND:20260315T092016Z
+SUMMARY:☌ Mercurio Conjunción Marte
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio conjunción ♂ Marte.\n\n
+ Fusión de energías: observá qué tema pide inicio o integración.\n\nCálcu
+ lo tropical geocéntrico por interpolación diaria. Nota: este prototipo s
+ epara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0b2aebacdc8b33f2@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260317T174858Z
+DTEND:20260317T184858Z
+SUMMARY:☌ Mercurio Conjunción Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio conjunción ☊ Nodo Norte
+ .\n\nFusión de energías: observá qué tema pide inicio o integración.\n\n
+ Cálculo tropical geocéntrico por interpolación diaria. Nota: este protot
+ ipo separa aspectos lunares rápidos y conserva fases/eclipses para la Lu
+ na.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4513eb40ec5cf4d4@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260322T111836Z
+DTEND:20260322T121836Z
+SUMMARY:☌ Sol Conjunción Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol conjunción ♆ Neptuno.\n\nFus
+ ión de energías: observá qué tema pide inicio o integración.\n\nCálculo 
+ tropical geocéntrico por interpolación diaria. Nota: este prototipo sepa
+ ra aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:19c70798491f0c48@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260323T053258Z
+DTEND:20260323T063258Z
+SUMMARY:☌ Mercurio Conjunción Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio conjunción ☊ Nodo Norte
+ .\n\nFusión de energías: observá qué tema pide inicio o integración.\n\n
+ Cálculo tropical geocéntrico por interpolación diaria. Nota: este protot
+ ipo separa aspectos lunares rápidos y conserva fases/eclipses para la Lu
+ na.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:61f3e4be61fa2f0e@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260325T085522Z
+DTEND:20260325T095522Z
+SUMMARY:☌ Sol Conjunción Saturno
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol conjunción ♄ Saturno.\n\nFus
+ ión de energías: observá qué tema pide inicio o integración.\n\nCálculo 
+ tropical geocéntrico por interpolación diaria. Nota: este prototipo sepa
+ ra aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4e442bd645c0c61c@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260413T053010Z
+DTEND:20260413T063010Z
+SUMMARY:☌ Marte Conjunción Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte conjunción ♆ Neptuno.\n\nF
+ usión de energías: observá qué tema pide inicio o integración.\n\nCálcul
+ o tropical geocéntrico por interpolación diaria. Nota: este prototipo se
+ para aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:89ee38c71d00d427@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260417T020013Z
+DTEND:20260417T030013Z
+SUMMARY:☌ Mercurio Conjunción Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio conjunción ♆ Neptuno.\n
+ \nFusión de energías: observá qué tema pide inicio o integración.\n\nCál
+ culo tropical geocéntrico por interpolación diaria. Nota: este prototipo
+  separa aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1e4616404c4200bd@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260419T224359Z
+DTEND:20260419T234359Z
+SUMMARY:☌ Marte Conjunción Saturno
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte conjunción ♄ Saturno.\n\nF
+ usión de energías: observá qué tema pide inicio o integración.\n\nCálcul
+ o tropical geocéntrico por interpolación diaria. Nota: este prototipo se
+ para aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f45d5733f8975b71@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260420T111833Z
+DTEND:20260420T121833Z
+SUMMARY:☌ Mercurio Conjunción Saturno
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio conjunción ♄ Saturno.\n
+ \nFusión de energías: observá qué tema pide inicio o integración.\n\nCál
+ culo tropical geocéntrico por interpolación diaria. Nota: este prototipo
+  separa aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ae48207ac3cc0fed@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260420T214229Z
+DTEND:20260420T224229Z
+SUMMARY:☌ Mercurio Conjunción Marte
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio conjunción ♂ Marte.\n\n
+ Fusión de energías: observá qué tema pide inicio o integración.\n\nCálcu
+ lo tropical geocéntrico por interpolación diaria. Nota: este prototipo s
+ epara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3f3efd8a2789e4d1@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260424T015818Z
+DTEND:20260424T025818Z
+SUMMARY:☌ Venus Conjunción Urano
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus conjunción ♅ Urano.\n\nFus
+ ión de energías: observá qué tema pide inicio o integración.\n\nCálculo 
+ tropical geocéntrico por interpolación diaria. Nota: este prototipo sepa
+ ra aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:74c6ab8a008f51f9@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260514T142315Z
+DTEND:20260514T152315Z
+SUMMARY:☌ Sol Conjunción Mercurio
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol conjunción ☿ Mercurio.\n\nFu
+ sión de energías: observá qué tema pide inicio o integración.\n\nCálculo
+  tropical geocéntrico por interpolación diaria. Nota: este prototipo sep
+ ara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2a394d906e0341c8@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260518T001012Z
+DTEND:20260518T011012Z
+SUMMARY:☌ Mercurio Conjunción Urano
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio conjunción ♅ Urano.\n\n
+ Fusión de energías: observá qué tema pide inicio o integración.\n\nCálcu
+ lo tropical geocéntrico por interpolación diaria. Nota: este prototipo s
+ epara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3f99f918c39ecb01@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260522T142614Z
+DTEND:20260522T152614Z
+SUMMARY:☌ Sol Conjunción Urano
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol conjunción ♅ Urano.\n\nFusió
+ n de energías: observá qué tema pide inicio o integración.\n\nCálculo tr
+ opical geocéntrico por interpolación diaria. Nota: este prototipo separa
+  aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:11a6947470c46b23@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260609T195929Z
+DTEND:20260609T205929Z
+SUMMARY:☌ Venus Conjunción Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus conjunción ♃ Júpiter.\n\nF
+ usión de energías: observá qué tema pide inicio o integración.\n\nCálcul
+ o tropical geocéntrico por interpolación diaria. Nota: este prototipo se
+ para aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:59792871aa14f6d0@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260704T060802Z
+DTEND:20260704T070802Z
+SUMMARY:☌ Marte Conjunción Urano
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte conjunción ♅ Urano.\n\nFus
+ ión de energías: observá qué tema pide inicio o integración.\n\nCálculo 
+ tropical geocéntrico por interpolación diaria. Nota: este prototipo sepa
+ ra aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:615364d819e3b9d7@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260710T072954Z
+DTEND:20260710T082954Z
+SUMMARY:☌ Venus Conjunción Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus conjunción ☋ Nodo Sur.\n\n
+ Fusión de energías: observá qué tema pide inicio o integración.\n\nCálcu
+ lo tropical geocéntrico por interpolación diaria. Nota: este prototipo s
+ epara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2f69558df030cb04@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260713T012602Z
+DTEND:20260713T022602Z
+SUMMARY:☌ Sol Conjunción Mercurio
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol conjunción ☿ Mercurio.\n\nFu
+ sión de energías: observá qué tema pide inicio o integración.\n\nCálculo
+  tropical geocéntrico por interpolación diaria. Nota: este prototipo sep
+ ara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1d6a5f1ce243eed1@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260729T121752Z
+DTEND:20260729T131752Z
+SUMMARY:☌ Sol Conjunción Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol conjunción ♃ Júpiter.\n\nFus
+ ión de energías: observá qué tema pide inicio o integración.\n\nCálculo 
+ tropical geocéntrico por interpolación diaria. Nota: este prototipo sepa
+ ra aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0a99b86139796b59@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260815T111854Z
+DTEND:20260815T121854Z
+SUMMARY:☌ Mercurio Conjunción Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio conjunción ♃ Júpiter.\n
+ \nFusión de energías: observá qué tema pide inicio o integración.\n\nCál
+ culo tropical geocéntrico por interpolación diaria. Nota: este prototipo
+  separa aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:63f075452cf3d25e@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260822T220055Z
+DTEND:20260822T230055Z
+SUMMARY:☌ Sol Conjunción Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol conjunción ☋ Nodo Sur.\n\nFu
+ sión de energías: observá qué tema pide inicio o integración.\n\nCálculo
+  tropical geocéntrico por interpolación diaria. Nota: este prototipo sep
+ ara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c08ef790d1788f9b@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260825T090540Z
+DTEND:20260825T100540Z
+SUMMARY:☌ Mercurio Conjunción Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio conjunción ☋ Nodo Sur.\
+ n\nFusión de energías: observá qué tema pide inicio o integración.\n\nCá
+ lculo tropical geocéntrico por interpolación diaria. Nota: este prototip
+ o separa aspectos lunares rápidos y conserva fases/eclipses para la Luna
+ .
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4f6ef7a4af249f0@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260827T170610Z
+DTEND:20260827T180610Z
+SUMMARY:☌ Sol Conjunción Mercurio
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol conjunción ☿ Mercurio.\n\nFu
+ sión de energías: observá qué tema pide inicio o integración.\n\nCálculo
+  tropical geocéntrico por interpolación diaria. Nota: este prototipo sep
+ ara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f20ded136fce5f36@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261007T001019Z
+DTEND:20261007T011019Z
+SUMMARY:☌ Mercurio Conjunción Venus
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio conjunción ♀ Venus.\n\n
+ Fusión de energías: observá qué tema pide inicio o integración.\n\nCálcu
+ lo tropical geocéntrico por interpolación diaria. Nota: este prototipo s
+ epara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4e4f41216284ef74@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261024T034405Z
+DTEND:20261024T044405Z
+SUMMARY:☌ Sol Conjunción Venus
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol conjunción ♀ Venus.\n\nFusió
+ n de energías: observá qué tema pide inicio o integración.\n\nCálculo tr
+ opical geocéntrico por interpolación diaria. Nota: este prototipo separa
+  aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:92038f0008c8a1f1@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261104T142459Z
+DTEND:20261104T152459Z
+SUMMARY:☌ Sol Conjunción Mercurio
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol conjunción ☿ Mercurio.\n\nFu
+ sión de energías: observá qué tema pide inicio o integración.\n\nCálculo
+  tropical geocéntrico por interpolación diaria. Nota: este prototipo sep
+ ara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:735734ff61ae076e@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261112T054813Z
+DTEND:20261112T064813Z
+SUMMARY:☌ Júpiter Conjunción Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ♃ Júpiter conjunción ☋ Nodo Sur.\n
+ \nFusión de energías: observá qué tema pide inicio o integración.\n\nCál
+ culo tropical geocéntrico por interpolación diaria. Nota: este prototipo
+  separa aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0469af6e2826638f@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261114T180341Z
+DTEND:20261114T190341Z
+SUMMARY:☌ Marte Conjunción Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte conjunción ☋ Nodo Sur.\n\n
+ Fusión de energías: observá qué tema pide inicio o integración.\n\nCálcu
+ lo tropical geocéntrico por interpolación diaria. Nota: este prototipo s
+ epara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:80d33d1a504623bc@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261116T062426Z
+DTEND:20261116T072426Z
+SUMMARY:☌ Marte Conjunción Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte conjunción ♃ Júpiter.\n\nF
+ usión de energías: observá qué tema pide inicio o integración.\n\nCálcul
+ o tropical geocéntrico por interpolación diaria. Nota: este prototipo se
+ para aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Conjunción
+COLOR:purple
+X-APPLE-CALENDAR-COLOR:purple
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

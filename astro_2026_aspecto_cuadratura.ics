@@ -1,0 +1,1076 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PG//Astro Digital//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Astro 2026 — Aspectos: Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:55656d2b550366eb@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260101T133227Z
+DTEND:20260101T143227Z
+SUMMARY:□ Mercurio Cuadratura Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio cuadratura ♆ Neptuno.\n
+ \nTensión productiva: ordená prioridades y actuá con calma.\n\nCálculo t
+ ropical geocéntrico por interpolación diaria. Nota: este prototipo separ
+ a aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4d073c370859850c@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260205T121412Z
+DTEND:20260205T131412Z
+SUMMARY:□ Mercurio Cuadratura Urano
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio cuadratura ♅ Urano.\n\n
+ Tensión productiva: ordená prioridades y actuá con calma.\n\nCálculo tro
+ pical geocéntrico por interpolación diaria. Nota: este prototipo separa 
+ aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5606812d9ad3ef60@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260208T094854Z
+DTEND:20260208T104854Z
+SUMMARY:□ Venus Cuadratura Urano
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus cuadratura ♅ Urano.\n\nTen
+ sión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropic
+ al geocéntrico por interpolación diaria. Nota: este prototipo separa asp
+ ectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fc8970b40d55a80e@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260210T065757Z
+DTEND:20260210T075757Z
+SUMMARY:□ Mercurio Cuadratura Lilith
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio cuadratura ⚸ Lilith.\n\
+ nTensión productiva: ordená prioridades y actuá con calma.\n\nCálculo tr
+ opical geocéntrico por interpolación diaria. Nota: este prototipo separa
+  aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecf37a3b2321259c@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260215T120513Z
+DTEND:20260215T130513Z
+SUMMARY:□ Venus Cuadratura Lilith
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus cuadratura ⚸ Lilith.\n\nTe
+ nsión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9b0a935f943fbf80@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260216T050147Z
+DTEND:20260216T060147Z
+SUMMARY:□ Sol Cuadratura Urano
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol cuadratura ♅ Urano.\n\nTensi
+ ón productiva: ordená prioridades y actuá con calma.\n\nCálculo tropical
+  geocéntrico por interpolación diaria. Nota: este prototipo separa aspec
+ tos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3744b8119e7b2f95@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260226T034147Z
+DTEND:20260226T044147Z
+SUMMARY:□ Sol Cuadratura Lilith
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol cuadratura ⚸ Lilith.\n\nTens
+ ión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:79e93f0795c962df@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260227T162100Z
+DTEND:20260227T172100Z
+SUMMARY:□ Marte Cuadratura Urano
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte cuadratura ♅ Urano.\n\nTen
+ sión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropic
+ al geocéntrico por interpolación diaria. Nota: este prototipo separa asp
+ ectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e985812d225248c6@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260310T043724Z
+DTEND:20260310T053724Z
+SUMMARY:□ Nodo Norte Cuadratura Lilith
+DESCRIPTION:Aspecto exacto aproximado: ☊ Nodo Norte cuadratura ⚸ Lilith.\
+ n\nTensión productiva: ordená prioridades y actuá con calma.\n\nCálculo 
+ tropical geocéntrico por interpolación diaria. Nota: este prototipo sepa
+ ra aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d0bc58ba41032575@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260310T043724Z
+DTEND:20260310T053724Z
+SUMMARY:□ Nodo Sur Cuadratura Lilith
+DESCRIPTION:Aspecto exacto aproximado: ☋ Nodo Sur cuadratura ⚸ Lilith.\n\
+ nTensión productiva: ordená prioridades y actuá con calma.\n\nCálculo tr
+ opical geocéntrico por interpolación diaria. Nota: este prototipo separa
+  aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fb5258e9fed667fb@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260314T120134Z
+DTEND:20260314T130134Z
+SUMMARY:□ Marte Cuadratura Lilith
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte cuadratura ⚸ Lilith.\n\nTe
+ nsión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:24eef07021d1baf9@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260316T055412Z
+DTEND:20260316T065412Z
+SUMMARY:□ Mercurio Cuadratura Lilith
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio cuadratura ⚸ Lilith.\n\
+ nTensión productiva: ordená prioridades y actuá con calma.\n\nCálculo tr
+ opical geocéntrico por interpolación diaria. Nota: este prototipo separa
+  aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b6c9ad617704e390@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260318T160930Z
+DTEND:20260318T170930Z
+SUMMARY:□ Venus Cuadratura Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus cuadratura ♃ Júpiter.\n\nT
+ ensión productiva: ordená prioridades y actuá con calma.\n\nCálculo trop
+ ical geocéntrico por interpolación diaria. Nota: este prototipo separa a
+ spectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:640f3fe9f3ee239c@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260328T045226Z
+DTEND:20260328T055226Z
+SUMMARY:□ Mercurio Cuadratura Lilith
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio cuadratura ⚸ Lilith.\n\
+ nTensión productiva: ordená prioridades y actuá con calma.\n\nCálculo tr
+ opical geocéntrico por interpolación diaria. Nota: este prototipo separa
+  aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3450d57922ed2ec3@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260403T223753Z
+DTEND:20260403T233753Z
+SUMMARY:□ Venus Cuadratura Plutón
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus cuadratura ♇ Plutón.\n\nTe
+ nsión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c848bdb8b20b3640@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260405T222253Z
+DTEND:20260405T232253Z
+SUMMARY:□ Sol Cuadratura Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol cuadratura ♃ Júpiter.\n\nTen
+ sión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropic
+ al geocéntrico por interpolación diaria. Nota: este prototipo separa asp
+ ectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9f825d91a5db6400@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260425T163236Z
+DTEND:20260425T173236Z
+SUMMARY:□ Sol Cuadratura Plutón
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol cuadratura ♇ Plutón.\n\nTens
+ ión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:642fe3da1ce73d85@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260426T183111Z
+DTEND:20260426T193111Z
+SUMMARY:□ Mercurio Cuadratura Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio cuadratura ♃ Júpiter.\n
+ \nTensión productiva: ordená prioridades y actuá con calma.\n\nCálculo t
+ ropical geocéntrico por interpolación diaria. Nota: este prototipo separ
+ a aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cf7e6564b683fac4@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260430T012936Z
+DTEND:20260430T022936Z
+SUMMARY:□ Venus Cuadratura Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus cuadratura ☊ Nodo Norte.\n
+ \nTensión productiva: ordená prioridades y actuá con calma.\n\nCálculo t
+ ropical geocéntrico por interpolación diaria. Nota: este prototipo separ
+ a aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:51279c2363a98966@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260430T012936Z
+DTEND:20260430T022936Z
+SUMMARY:□ Venus Cuadratura Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus cuadratura ☋ Nodo Sur.\n\n
+ Tensión productiva: ordená prioridades y actuá con calma.\n\nCálculo tro
+ pical geocéntrico por interpolación diaria. Nota: este prototipo separa 
+ aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a0365cf7b8a0145d@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260505T020840Z
+DTEND:20260505T030840Z
+SUMMARY:□ Marte Cuadratura Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte cuadratura ♃ Júpiter.\n\nT
+ ensión productiva: ordená prioridades y actuá con calma.\n\nCálculo trop
+ ical geocéntrico por interpolación diaria. Nota: este prototipo separa a
+ spectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:97bb5fe8bdbc9b0f@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260505T220723Z
+DTEND:20260505T230723Z
+SUMMARY:□ Mercurio Cuadratura Plutón
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio cuadratura ♇ Plutón.\n\
+ nTensión productiva: ordená prioridades y actuá con calma.\n\nCálculo tr
+ opical geocéntrico por interpolación diaria. Nota: este prototipo separa
+  aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9f2404ef51e91765@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260519T161642Z
+DTEND:20260519T171642Z
+SUMMARY:□ Mercurio Cuadratura Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio cuadratura ☊ Nodo Norte
+ .\n\nTensión productiva: ordená prioridades y actuá con calma.\n\nCálcul
+ o tropical geocéntrico por interpolación diaria. Nota: este prototipo se
+ para aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1dc94b0f7ee10fe3@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260519T161642Z
+DTEND:20260519T171642Z
+SUMMARY:□ Mercurio Cuadratura Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio cuadratura ☋ Nodo Sur.\
+ n\nTensión productiva: ordená prioridades y actuá con calma.\n\nCálculo 
+ tropical geocéntrico por interpolación diaria. Nota: este prototipo sepa
+ ra aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dd0835157975a27a@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260522T063148Z
+DTEND:20260522T073148Z
+SUMMARY:□ Venus Cuadratura Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus cuadratura ♆ Neptuno.\n\nT
+ ensión productiva: ordená prioridades y actuá con calma.\n\nCálculo trop
+ ical geocéntrico por interpolación diaria. Nota: este prototipo separa a
+ spectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:547d7a5ad30eabd4@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260525T204419Z
+DTEND:20260525T214419Z
+SUMMARY:□ Sol Cuadratura Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol cuadratura ☊ Nodo Norte.\n\n
+ Tensión productiva: ordená prioridades y actuá con calma.\n\nCálculo tro
+ pical geocéntrico por interpolación diaria. Nota: este prototipo separa 
+ aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cdc9c6891c825f1c@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260525T204419Z
+DTEND:20260525T214419Z
+SUMMARY:□ Sol Cuadratura Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol cuadratura ☋ Nodo Sur.\n\nTe
+ nsión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6301d26a99a2a892@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260526T040154Z
+DTEND:20260526T050154Z
+SUMMARY:□ Marte Cuadratura Plutón
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte cuadratura ♇ Plutón.\n\nTe
+ nsión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3613b89245f78c6d@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260529T030236Z
+DTEND:20260529T040236Z
+SUMMARY:□ Venus Cuadratura Saturno
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus cuadratura ♄ Saturno.\n\nT
+ ensión productiva: ordená prioridades y actuá con calma.\n\nCálculo trop
+ ical geocéntrico por interpolación diaria. Nota: este prototipo separa a
+ spectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d7cee99cbc740b5d@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260604T001835Z
+DTEND:20260604T011835Z
+SUMMARY:□ Mercurio Cuadratura Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio cuadratura ♆ Neptuno.\n
+ \nTensión productiva: ordená prioridades y actuá con calma.\n\nCálculo t
+ ropical geocéntrico por interpolación diaria. Nota: este prototipo separ
+ a aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:304d71c9b601a4fe@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260610T054413Z
+DTEND:20260610T064413Z
+SUMMARY:□ Mercurio Cuadratura Saturno
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio cuadratura ♄ Saturno.\n
+ \nTensión productiva: ordená prioridades y actuá con calma.\n\nCálculo t
+ ropical geocéntrico por interpolación diaria. Nota: este prototipo separ
+ a aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3cef13737b770684@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260612T073130Z
+DTEND:20260612T083130Z
+SUMMARY:□ Urano Cuadratura Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ♅ Urano cuadratura ☊ Nodo Norte.\n
+ \nTensión productiva: ordená prioridades y actuá con calma.\n\nCálculo t
+ ropical geocéntrico por interpolación diaria. Nota: este prototipo separ
+ a aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5c1b6113d4997d57@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260612T073130Z
+DTEND:20260612T083130Z
+SUMMARY:□ Urano Cuadratura Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ♅ Urano cuadratura ☋ Nodo Sur.\n\n
+ Tensión productiva: ordená prioridades y actuá con calma.\n\nCálculo tro
+ pical geocéntrico por interpolación diaria. Nota: este prototipo separa 
+ aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ed15055063f021f7@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260625T223815Z
+DTEND:20260625T233815Z
+SUMMARY:□ Sol Cuadratura Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol cuadratura ♆ Neptuno.\n\nTen
+ sión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropic
+ al geocéntrico por interpolación diaria. Nota: este prototipo separa asp
+ ectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b56fa142d946106f@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260630T042621Z
+DTEND:20260630T052621Z
+SUMMARY:□ Marte Cuadratura Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte cuadratura ☊ Nodo Norte.\n
+ \nTensión productiva: ordená prioridades y actuá con calma.\n\nCálculo t
+ ropical geocéntrico por interpolación diaria. Nota: este prototipo separ
+ a aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ccf1310bd8430f84@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260630T042621Z
+DTEND:20260630T052621Z
+SUMMARY:□ Marte Cuadratura Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte cuadratura ☋ Nodo Sur.\n\n
+ Tensión productiva: ordená prioridades y actuá con calma.\n\nCálculo tro
+ pical geocéntrico por interpolación diaria. Nota: este prototipo separa 
+ aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d61e438c880ae09e@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260706T104643Z
+DTEND:20260706T114643Z
+SUMMARY:□ Sol Cuadratura Saturno
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol cuadratura ♄ Saturno.\n\nTen
+ sión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropic
+ al geocéntrico por interpolación diaria. Nota: este prototipo separa asp
+ ectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:469ebe054a487307@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260713T142700Z
+DTEND:20260713T152700Z
+SUMMARY:□ Venus Cuadratura Urano
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus cuadratura ♅ Urano.\n\nTen
+ sión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropic
+ al geocéntrico por interpolación diaria. Nota: este prototipo separa asp
+ ectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:95533fc51df40d8f@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260729T071106Z
+DTEND:20260729T081106Z
+SUMMARY:□ Venus Cuadratura Marte
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus cuadratura ♂ Marte.\n\nTen
+ sión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropic
+ al geocéntrico por interpolación diaria. Nota: este prototipo separa asp
+ ectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:79343353e000b9aa@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260802T002954Z
+DTEND:20260802T012954Z
+SUMMARY:□ Venus Cuadratura Lilith
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus cuadratura ⚸ Lilith.\n\nTe
+ nsión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e2fe44c0c60105f8@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260817T095239Z
+DTEND:20260817T105239Z
+SUMMARY:□ Marte Cuadratura Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte cuadratura ♆ Neptuno.\n\nT
+ ensión productiva: ordená prioridades y actuá con calma.\n\nCálculo trop
+ ical geocéntrico por interpolación diaria. Nota: este prototipo separa a
+ spectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cd5e49fb1ece8966@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260828T072555Z
+DTEND:20260828T082555Z
+SUMMARY:□ Mercurio Cuadratura Urano
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio cuadratura ♅ Urano.\n\n
+ Tensión productiva: ordená prioridades y actuá con calma.\n\nCálculo tro
+ pical geocéntrico por interpolación diaria. Nota: este prototipo separa 
+ aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0ea31c3545b2cc4d@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260828T221853Z
+DTEND:20260828T231853Z
+SUMMARY:□ Sol Cuadratura Urano
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol cuadratura ♅ Urano.\n\nTensi
+ ón productiva: ordená prioridades y actuá con calma.\n\nCálculo tropical
+  geocéntrico por interpolación diaria. Nota: este prototipo separa aspec
+ tos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1d31437e7cd2c77a@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260901T095842Z
+DTEND:20260901T105842Z
+SUMMARY:□ Marte Cuadratura Saturno
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte cuadratura ♄ Saturno.\n\nT
+ ensión productiva: ordená prioridades y actuá con calma.\n\nCálculo trop
+ ical geocéntrico por interpolación diaria. Nota: este prototipo separa a
+ spectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:69265e0c2874f1aa@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260910T093308Z
+DTEND:20260910T103308Z
+SUMMARY:□ Mercurio Cuadratura Lilith
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio cuadratura ⚸ Lilith.\n\
+ nTensión productiva: ordená prioridades y actuá con calma.\n\nCálculo tr
+ opical geocéntrico por interpolación diaria. Nota: este prototipo separa
+  aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8e0d5bfdab978034@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260915T183937Z
+DTEND:20260915T193937Z
+SUMMARY:□ Venus Cuadratura Plutón
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus cuadratura ♇ Plutón.\n\nTe
+ nsión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:686348ce07f8ba05@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260924T014354Z
+DTEND:20260924T024354Z
+SUMMARY:□ Sol Cuadratura Lilith
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol cuadratura ⚸ Lilith.\n\nTens
+ ión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e0a86a2c4f31c5f2@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261002T091912Z
+DTEND:20261002T101912Z
+SUMMARY:□ Mercurio Cuadratura Marte
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio cuadratura ♂ Marte.\n\n
+ Tensión productiva: ordená prioridades y actuá con calma.\n\nCálculo tro
+ pical geocéntrico por interpolación diaria. Nota: este prototipo separa 
+ aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7ba063faf5428fbf@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261002T204407Z
+DTEND:20261002T214407Z
+SUMMARY:□ Mercurio Cuadratura Plutón
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio cuadratura ♇ Plutón.\n\
+ nTensión productiva: ordená prioridades y actuá con calma.\n\nCálculo tr
+ opical geocéntrico por interpolación diaria. Nota: este prototipo separa
+  aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:586618ac868d9a39@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261008T120848Z
+DTEND:20261008T130848Z
+SUMMARY:□ Neptuno Cuadratura Lilith
+DESCRIPTION:Aspecto exacto aproximado: ♆ Neptuno cuadratura ⚸ Lilith.\n\n
+ Tensión productiva: ordená prioridades y actuá con calma.\n\nCálculo tro
+ pical geocéntrico por interpolación diaria. Nota: este prototipo separa 
+ aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cf9a8157c11bc241@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261010T212812Z
+DTEND:20261010T222812Z
+SUMMARY:□ Venus Cuadratura Marte
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus cuadratura ♂ Marte.\n\nTen
+ sión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropic
+ al geocéntrico por interpolación diaria. Nota: este prototipo separa asp
+ ectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9fb3ca6933721b88@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261020T065213Z
+DTEND:20261020T075213Z
+SUMMARY:□ Venus Cuadratura Plutón
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus cuadratura ♇ Plutón.\n\nTe
+ nsión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9abd053e822c4e18@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261026T121136Z
+DTEND:20261026T131136Z
+SUMMARY:□ Sol Cuadratura Plutón
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol cuadratura ♇ Plutón.\n\nTens
+ ión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3d352363b71d59c9@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261030T170620Z
+DTEND:20261030T180620Z
+SUMMARY:□ Mercurio Cuadratura Marte
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio cuadratura ♂ Marte.\n\n
+ Tensión productiva: ordená prioridades y actuá con calma.\n\nCálculo tro
+ pical geocéntrico por interpolación diaria. Nota: este prototipo separa 
+ aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4e0930e1946ee09c@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261117T115013Z
+DTEND:20261117T125013Z
+SUMMARY:□ Sol Cuadratura Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol cuadratura ☊ Nodo Norte.\n\n
+ Tensión productiva: ordená prioridades y actuá con calma.\n\nCálculo tro
+ pical geocéntrico por interpolación diaria. Nota: este prototipo separa 
+ aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fbbeed5595db0840@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261117T115013Z
+DTEND:20261117T125013Z
+SUMMARY:□ Sol Cuadratura Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol cuadratura ☋ Nodo Sur.\n\nTe
+ nsión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ec344f48ddbcf3e3@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261118T093805Z
+DTEND:20261118T103805Z
+SUMMARY:□ Sol Cuadratura Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol cuadratura ♃ Júpiter.\n\nTen
+ sión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropic
+ al geocéntrico por interpolación diaria. Nota: este prototipo separa asp
+ ectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:484256b07df58e84@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261119T174752Z
+DTEND:20261119T184752Z
+SUMMARY:□ Sol Cuadratura Marte
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol cuadratura ♂ Marte.\n\nTensi
+ ón productiva: ordená prioridades y actuá con calma.\n\nCálculo tropical
+  geocéntrico por interpolación diaria. Nota: este prototipo separa aspec
+ tos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eedd6a0a55db4560@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261126T115502Z
+DTEND:20261126T125502Z
+SUMMARY:□ Saturno Cuadratura Lilith
+DESCRIPTION:Aspecto exacto aproximado: ♄ Saturno cuadratura ⚸ Lilith.\n\n
+ Tensión productiva: ordená prioridades y actuá con calma.\n\nCálculo tro
+ pical geocéntrico por interpolación diaria. Nota: este prototipo separa 
+ aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:510dfd443288cb4c@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261202T053054Z
+DTEND:20261202T063054Z
+SUMMARY:□ Mercurio Cuadratura Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio cuadratura ☊ Nodo Norte
+ .\n\nTensión productiva: ordená prioridades y actuá con calma.\n\nCálcul
+ o tropical geocéntrico por interpolación diaria. Nota: este prototipo se
+ para aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6a56bb9599dce9a1@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261202T053054Z
+DTEND:20261202T063054Z
+SUMMARY:□ Mercurio Cuadratura Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio cuadratura ☋ Nodo Sur.\
+ n\nTensión productiva: ordená prioridades y actuá con calma.\n\nCálculo 
+ tropical geocéntrico por interpolación diaria. Nota: este prototipo sepa
+ ra aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:85284cdfde667c1f@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261204T070121Z
+DTEND:20261204T080121Z
+SUMMARY:□ Mercurio Cuadratura Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio cuadratura ♃ Júpiter.\n
+ \nTensión productiva: ordená prioridades y actuá con calma.\n\nCálculo t
+ ropical geocéntrico por interpolación diaria. Nota: este prototipo separ
+ a aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2a833b898cf39d4e@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261204T193008Z
+DTEND:20261204T203008Z
+SUMMARY:□ Marte Cuadratura Urano
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte cuadratura ♅ Urano.\n\nTen
+ sión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropic
+ al geocéntrico por interpolación diaria. Nota: este prototipo separa asp
+ ectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:006b698263b7e402@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261209T133855Z
+DTEND:20261209T143855Z
+SUMMARY:□ Mercurio Cuadratura Marte
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio cuadratura ♂ Marte.\n\n
+ Tensión productiva: ordená prioridades y actuá con calma.\n\nCálculo tro
+ pical geocéntrico por interpolación diaria. Nota: este prototipo separa 
+ aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7000f96f97dd0b72@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261209T183432Z
+DTEND:20261209T193432Z
+SUMMARY:□ Venus Cuadratura Plutón
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus cuadratura ♇ Plutón.\n\nTe
+ nsión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:37c2e0fbb9fa9640@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261223T113710Z
+DTEND:20261223T123710Z
+SUMMARY:□ Sol Cuadratura Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol cuadratura ♆ Neptuno.\n\nTen
+ sión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropic
+ al geocéntrico por interpolación diaria. Nota: este prototipo separa asp
+ ectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:71a559ee990fdad7@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261226T194628Z
+DTEND:20261226T204628Z
+SUMMARY:□ Mercurio Cuadratura Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio cuadratura ♆ Neptuno.\n
+ \nTensión productiva: ordená prioridades y actuá con calma.\n\nCálculo t
+ ropical geocéntrico por interpolación diaria. Nota: este prototipo separ
+ a aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:30a0d7d3e50217f9@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261229T224853Z
+DTEND:20261229T234853Z
+SUMMARY:□ Venus Cuadratura Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus cuadratura ☊ Nodo Norte.\n
+ \nTensión productiva: ordená prioridades y actuá con calma.\n\nCálculo t
+ ropical geocéntrico por interpolación diaria. Nota: este prototipo separ
+ a aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:408605b68a88b7a9@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261229T224853Z
+DTEND:20261229T234853Z
+SUMMARY:□ Venus Cuadratura Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus cuadratura ☋ Nodo Sur.\n\n
+ Tensión productiva: ordená prioridades y actuá con calma.\n\nCálculo tro
+ pical geocéntrico por interpolación diaria. Nota: este prototipo separa 
+ aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9caa0249c4f8d81d@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261229T232746Z
+DTEND:20261230T002746Z
+SUMMARY:□ Sol Cuadratura Saturno
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol cuadratura ♄ Saturno.\n\nTen
+ sión productiva: ordená prioridades y actuá con calma.\n\nCálculo tropic
+ al geocéntrico por interpolación diaria. Nota: este prototipo separa asp
+ ectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:400fb5949ba5e5fe@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261230T235435Z
+DTEND:20261231T005435Z
+SUMMARY:□ Mercurio Cuadratura Saturno
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio cuadratura ♄ Saturno.\n
+ \nTensión productiva: ordená prioridades y actuá con calma.\n\nCálculo t
+ ropical geocéntrico por interpolación diaria. Nota: este prototipo separ
+ a aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Cuadratura
+COLOR:red
+X-APPLE-CALENDAR-COLOR:red
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

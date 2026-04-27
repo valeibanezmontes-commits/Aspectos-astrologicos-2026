@@ -1,0 +1,1001 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PG//Astro Digital//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Astro 2026 — Aspectos: Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:befc4dffbc3e1177@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260101T075434Z
+DTEND:20260101T085434Z
+SUMMARY:△ Sol Trígono Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol trígono ☋ Nodo Sur.\n\nFluid
+ ez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo trop
+ ical geocéntrico por interpolación diaria. Nota: este prototipo separa a
+ spectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:52df3902254edd51@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260102T054552Z
+DTEND:20260102T064552Z
+SUMMARY:△ Venus Trígono Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus trígono ☋ Nodo Sur.\n\nFlu
+ idez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tr
+ opical geocéntrico por interpolación diaria. Nota: este prototipo separa
+  aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4725f9828bfd9613@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260108T122955Z
+DTEND:20260108T132955Z
+SUMMARY:△ Mercurio Trígono Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio trígono ☋ Nodo Sur.\n\n
+ Fluidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo
+  tropical geocéntrico por interpolación diaria. Nota: este prototipo sep
+ ara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9d442066ba0a5a0e@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260115T152220Z
+DTEND:20260115T162220Z
+SUMMARY:△ Venus Trígono Urano
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus trígono ♅ Urano.\n\nFluide
+ z: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:86525803218812c3@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260117T165845Z
+DTEND:20260117T175845Z
+SUMMARY:△ Sol Trígono Urano
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol trígono ♅ Urano.\n\nFluidez:
+  aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0b9f6c0cdc395c2d@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260119T053705Z
+DTEND:20260119T063705Z
+SUMMARY:△ Mercurio Trígono Urano
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio trígono ♅ Urano.\n\nFlu
+ idez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tr
+ opical geocéntrico por interpolación diaria. Nota: este prototipo separa
+  aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8975ba61c27b1562@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260120T055630Z
+DTEND:20260120T065630Z
+SUMMARY:△ Marte Trígono Urano
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte trígono ♅ Urano.\n\nFluide
+ z: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe59c70d26ac875@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260216T213536Z
+DTEND:20260216T223536Z
+SUMMARY:△ Mercurio Trígono Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio trígono ♃ Júpiter.\n\nF
+ luidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo 
+ tropical geocéntrico por interpolación diaria. Nota: este prototipo sepa
+ ra aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ea37bb2d2efd7efd@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260222T200214Z
+DTEND:20260222T210214Z
+SUMMARY:△ Venus Trígono Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus trígono ♃ Júpiter.\n\nFlui
+ dez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tro
+ pical geocéntrico por interpolación diaria. Nota: este prototipo separa 
+ aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3975a58c94a0d09b@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260305T171433Z
+DTEND:20260305T181433Z
+SUMMARY:△ Sol Trígono Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol trígono ♃ Júpiter.\n\nFluide
+ z: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ff6bac489ad48378@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260309T052610Z
+DTEND:20260309T062610Z
+SUMMARY:△ Mercurio Trígono Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio trígono ♃ Júpiter.\n\nF
+ luidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo 
+ tropical geocéntrico por interpolación diaria. Nota: este prototipo sepa
+ ra aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20c6f510c85e3613@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260313T224127Z
+DTEND:20260313T234127Z
+SUMMARY:△ Venus Trígono Lilith
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus trígono ⚸ Lilith.\n\nFluid
+ ez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo trop
+ ical geocéntrico por interpolación diaria. Nota: este prototipo separa a
+ spectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d87f93c13f470a34@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260322T000113Z
+DTEND:20260322T010113Z
+SUMMARY:△ Marte Trígono Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte trígono ♃ Júpiter.\n\nFlui
+ dez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tro
+ pical geocéntrico por interpolación diaria. Nota: este prototipo separa 
+ aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c0b83057d3d3d262@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260401T014531Z
+DTEND:20260401T024531Z
+SUMMARY:△ Sol Trígono Lilith
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol trígono ⚸ Lilith.\n\nFluidez
+ : aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tropic
+ al geocéntrico por interpolación diaria. Nota: este prototipo separa asp
+ ectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9d86f87d51b5abfe@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260403T111940Z
+DTEND:20260403T121940Z
+SUMMARY:△ Mercurio Trígono Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio trígono ♃ Júpiter.\n\nF
+ luidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo 
+ tropical geocéntrico por interpolación diaria. Nota: este prototipo sepa
+ ra aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:81534414ce66adee@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260406T092707Z
+DTEND:20260406T102707Z
+SUMMARY:△ Venus Trígono Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus trígono ☋ Nodo Sur.\n\nFlu
+ idez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tr
+ opical geocéntrico por interpolación diaria. Nota: este prototipo separa
+  aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fe52c1fe66b1bb20@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260424T043425Z
+DTEND:20260424T053425Z
+SUMMARY:△ Mercurio Trígono Lilith
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio trígono ⚸ Lilith.\n\nFl
+ uidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo t
+ ropical geocéntrico por interpolación diaria. Nota: este prototipo separ
+ a aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a7cfda883c885bac@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260427T143322Z
+DTEND:20260427T153322Z
+SUMMARY:△ Sol Trígono Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol trígono ☋ Nodo Sur.\n\nFluid
+ ez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo trop
+ ical geocéntrico por interpolación diaria. Nota: este prototipo separa a
+ spectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:897c6b6d039d997d@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260428T104425Z
+DTEND:20260428T114425Z
+SUMMARY:△ Marte Trígono Lilith
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte trígono ⚸ Lilith.\n\nFluid
+ ez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo trop
+ ical geocéntrico por interpolación diaria. Nota: este prototipo separa a
+ spectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:903e097c6ec2d866@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260428T163937Z
+DTEND:20260428T173937Z
+SUMMARY:△ Venus Trígono Plutón
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus trígono ♇ Plutón.\n\nFluid
+ ez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo trop
+ ical geocéntrico por interpolación diaria. Nota: este prototipo separa a
+ spectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:43c6cae98d1e8fd2@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260506T044021Z
+DTEND:20260506T054021Z
+SUMMARY:△ Mercurio Trígono Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio trígono ☋ Nodo Sur.\n\n
+ Fluidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo
+  tropical geocéntrico por interpolación diaria. Nota: este prototipo sep
+ ara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:16b7ea187541e832@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260519T225238Z
+DTEND:20260519T235238Z
+SUMMARY:△ Mercurio Trígono Plutón
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio trígono ♇ Plutón.\n\nFl
+ uidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo t
+ ropical geocéntrico por interpolación diaria. Nota: este prototipo separ
+ a aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:54a74b7ad0a6d301@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260522T233012Z
+DTEND:20260523T003012Z
+SUMMARY:△ Venus Trígono Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus trígono ☊ Nodo Norte.\n\nF
+ luidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo 
+ tropical geocéntrico por interpolación diaria. Nota: este prototipo sepa
+ ra aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b76383b75eccf9@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260525T040637Z
+DTEND:20260525T050637Z
+SUMMARY:△ Marte Trígono Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte trígono ☋ Nodo Sur.\n\nFlu
+ idez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tr
+ opical geocéntrico por interpolación diaria. Nota: este prototipo separa
+  aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0762685b5862059a@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260526T155240Z
+DTEND:20260526T165240Z
+SUMMARY:△ Sol Trígono Plutón
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol trígono ♇ Plutón.\n\nFluidez
+ : aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tropic
+ al geocéntrico por interpolación diaria. Nota: este prototipo separa asp
+ ectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4dbc85bd20737e1e@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260603T095344Z
+DTEND:20260603T105344Z
+SUMMARY:△ Mercurio Trígono Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio trígono ☊ Nodo Norte.\n
+ \nFluidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálcu
+ lo tropical geocéntrico por interpolación diaria. Nota: este prototipo s
+ epara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:399a5390b56bcb2e@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260617T034059Z
+DTEND:20260617T044059Z
+SUMMARY:△ Venus Trígono Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus trígono ♆ Neptuno.\n\nFlui
+ dez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tro
+ pical geocéntrico por interpolación diaria. Nota: este prototipo separa 
+ aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1d0dce124825aa55@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260623T080241Z
+DTEND:20260623T090241Z
+SUMMARY:△ Sol Trígono Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol trígono ☊ Nodo Norte.\n\nFlu
+ idez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tr
+ opical geocéntrico por interpolación diaria. Nota: este prototipo separa
+  aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:336ab295196f6b70@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260625T120148Z
+DTEND:20260625T130148Z
+SUMMARY:△ Venus Trígono Saturno
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus trígono ♄ Saturno.\n\nFlui
+ dez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tro
+ pical geocéntrico por interpolación diaria. Nota: este prototipo separa 
+ aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3acdc3a0d21bc532@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260702T073136Z
+DTEND:20260702T083136Z
+SUMMARY:△ Venus Trígono Lilith
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus trígono ⚸ Lilith.\n\nFluid
+ ez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo trop
+ ical geocéntrico por interpolación diaria. Nota: este prototipo separa a
+ spectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0dfdd2c0931a4636@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260705T130623Z
+DTEND:20260705T140623Z
+SUMMARY:△ Marte Trígono Plutón
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte trígono ♇ Plutón.\n\nFluid
+ ez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo trop
+ ical geocéntrico por interpolación diaria. Nota: este prototipo separa a
+ spectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:597a7cbe8891f982@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260718T044128Z
+DTEND:20260718T054128Z
+SUMMARY:△ Urano Trígono Plutón
+DESCRIPTION:Aspecto exacto aproximado: ♅ Urano trígono ♇ Plutón.\n\nFluid
+ ez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo trop
+ ical geocéntrico por interpolación diaria. Nota: este prototipo separa a
+ spectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:840441be24c02c7c@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260720T072214Z
+DTEND:20260720T082214Z
+SUMMARY:△ Júpiter Trígono Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ♃ Júpiter trígono ♆ Neptuno.\n\nFl
+ uidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo t
+ ropical geocéntrico por interpolación diaria. Nota: este prototipo separ
+ a aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4d7124f1b1cb0234@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260727T073622Z
+DTEND:20260727T083622Z
+SUMMARY:△ Sol Trígono Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol trígono ♆ Neptuno.\n\nFluide
+ z: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2abd68b4f543cdeb@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260807T024403Z
+DTEND:20260807T034403Z
+SUMMARY:△ Sol Trígono Saturno
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol trígono ♄ Saturno.\n\nFluide
+ z: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:355dafcc084851d8@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260810T180916Z
+DTEND:20260810T190916Z
+SUMMARY:△ Venus Trígono Plutón
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus trígono ♇ Plutón.\n\nFluid
+ ez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo trop
+ ical geocéntrico por interpolación diaria. Nota: este prototipo separa a
+ spectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f5c9354ccbd339a2@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260811T014437Z
+DTEND:20260811T024437Z
+SUMMARY:△ Marte Trígono Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte trígono ☊ Nodo Norte.\n\nF
+ luidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo 
+ tropical geocéntrico por interpolación diaria. Nota: este prototipo sepa
+ ra aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0479c3e16071f1e5@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260812T033539Z
+DTEND:20260812T043539Z
+SUMMARY:△ Mercurio Trígono Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio trígono ♆ Neptuno.\n\nF
+ luidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo 
+ tropical geocéntrico por interpolación diaria. Nota: este prototipo sepa
+ ra aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:328789125d4ffb91@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260812T034645Z
+DTEND:20260812T044645Z
+SUMMARY:△ Venus Trígono Urano
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus trígono ♅ Urano.\n\nFluide
+ z: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d324495be06b7025@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260817T152455Z
+DTEND:20260817T162455Z
+SUMMARY:△ Mercurio Trígono Saturno
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio trígono ♄ Saturno.\n\nF
+ luidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo 
+ tropical geocéntrico por interpolación diaria. Nota: este prototipo sepa
+ ra aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:66378075d1cdf104@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260820T030342Z
+DTEND:20260820T040342Z
+SUMMARY:△ Sol Trígono Lilith
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol trígono ⚸ Lilith.\n\nFluidez
+ : aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tropic
+ al geocéntrico por interpolación diaria. Nota: este prototipo separa asp
+ ectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ce52c4ab4b00c0c2@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260824T061817Z
+DTEND:20260824T071817Z
+SUMMARY:△ Mercurio Trígono Lilith
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio trígono ⚸ Lilith.\n\nFl
+ uidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo t
+ ropical geocéntrico por interpolación diaria. Nota: este prototipo separ
+ a aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c40af6d43209e6b3@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260831T221658Z
+DTEND:20260831T231658Z
+SUMMARY:△ Júpiter Trígono Saturno
+DESCRIPTION:Aspecto exacto aproximado: ♃ Júpiter trígono ♄ Saturno.\n\nFl
+ uidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo t
+ ropical geocéntrico por interpolación diaria. Nota: este prototipo separ
+ a aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ab79478b96fc8a22@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260910T014247Z
+DTEND:20260910T024247Z
+SUMMARY:△ Venus Trígono Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus trígono ☊ Nodo Norte.\n\nF
+ luidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo 
+ tropical geocéntrico por interpolación diaria. Nota: este prototipo sepa
+ ra aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7ac5d084186c0c1b@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260912T131435Z
+DTEND:20260912T141435Z
+SUMMARY:△ Nodo Sur Trígono Lilith
+DESCRIPTION:Aspecto exacto aproximado: ☋ Nodo Sur trígono ⚸ Lilith.\n\nFl
+ uidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo t
+ ropical geocéntrico por interpolación diaria. Nota: este prototipo separ
+ a aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d99994c199edf3a8@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260912T160046Z
+DTEND:20260912T170046Z
+SUMMARY:△ Mercurio Trígono Plutón
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio trígono ♇ Plutón.\n\nFl
+ uidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo t
+ ropical geocéntrico por interpolación diaria. Nota: este prototipo separ
+ a aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cf92958d269b5caf@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260914T024020Z
+DTEND:20260914T034020Z
+SUMMARY:△ Mercurio Trígono Urano
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio trígono ♅ Urano.\n\nFlu
+ idez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tr
+ opical geocéntrico por interpolación diaria. Nota: este prototipo separa
+  aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:11a7e4995b19e628@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260926T053421Z
+DTEND:20260926T063421Z
+SUMMARY:△ Sol Trígono Plutón
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol trígono ♇ Plutón.\n\nFluidez
+ : aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tropic
+ al geocéntrico por interpolación diaria. Nota: este prototipo separa asp
+ ectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:791a8dd760a78d51@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260928T162131Z
+DTEND:20260928T172131Z
+SUMMARY:△ Sol Trígono Urano
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol trígono ♅ Urano.\n\nFluidez:
+  aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bcca66451fbcee7e@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260929T220534Z
+DTEND:20260929T230534Z
+SUMMARY:△ Mercurio Trígono Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio trígono ☊ Nodo Norte.\n
+ \nFluidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálcu
+ lo tropical geocéntrico por interpolación diaria. Nota: este prototipo s
+ epara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aff47799886ff33c@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261002T221738Z
+DTEND:20261002T231738Z
+SUMMARY:△ Marte Trígono Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte trígono ♆ Neptuno.\n\nFlui
+ dez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tro
+ pical geocéntrico por interpolación diaria. Nota: este prototipo separa 
+ aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f3529c6b331b494e@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261016T083311Z
+DTEND:20261016T093311Z
+SUMMARY:△ Marte Trígono Saturno
+DESCRIPTION:Aspecto exacto aproximado: ♂ Marte trígono ♄ Saturno.\n\nFlui
+ dez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tro
+ pical geocéntrico por interpolación diaria. Nota: este prototipo separa 
+ aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:841532a098f8bbb5@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261021T104104Z
+DTEND:20261021T114104Z
+SUMMARY:△ Sol Trígono Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol trígono ☊ Nodo Norte.\n\nFlu
+ idez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tr
+ opical geocéntrico por interpolación diaria. Nota: este prototipo separa
+  aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:212370fd81510a0d@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261030T123141Z
+DTEND:20261030T133141Z
+SUMMARY:△ Venus Trígono Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus trígono ☊ Nodo Norte.\n\nF
+ luidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo 
+ tropical geocéntrico por interpolación diaria. Nota: este prototipo sepa
+ ra aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:920b00bb3507207b@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261123T141739Z
+DTEND:20261123T151739Z
+SUMMARY:△ Venus Trígono Nodo Norte
+DESCRIPTION:Aspecto exacto aproximado: ♀ Venus trígono ☊ Nodo Norte.\n\nF
+ luidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo 
+ tropical geocéntrico por interpolación diaria. Nota: este prototipo sepa
+ ra aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7d3db0e55e4de976@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261124T000731Z
+DTEND:20261124T010731Z
+SUMMARY:△ Sol Trígono Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol trígono ♆ Neptuno.\n\nFluide
+ z: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:730f3a03ddce7ae4@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261129T112459Z
+DTEND:20261129T122459Z
+SUMMARY:△ Urano Trígono Plutón
+DESCRIPTION:Aspecto exacto aproximado: ♅ Urano trígono ♇ Plutón.\n\nFluid
+ ez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo trop
+ ical geocéntrico por interpolación diaria. Nota: este prototipo separa a
+ spectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f192933e5e12010d@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261130T060548Z
+DTEND:20261130T070548Z
+SUMMARY:△ Sol Trígono Saturno
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol trígono ♄ Saturno.\n\nFluide
+ z: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7883a1ad5a89a039@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261207T101444Z
+DTEND:20261207T111444Z
+SUMMARY:△ Mercurio Trígono Neptuno
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio trígono ♆ Neptuno.\n\nF
+ luidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo 
+ tropical geocéntrico por interpolación diaria. Nota: este prototipo sepa
+ ra aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e43ad6ab1dbb705f@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261211T132513Z
+DTEND:20261211T142513Z
+SUMMARY:△ Mercurio Trígono Saturno
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio trígono ♄ Saturno.\n\nF
+ luidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo 
+ tropical geocéntrico por interpolación diaria. Nota: este prototipo sepa
+ ra aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1cc37c0badd102b@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261214T051156Z
+DTEND:20261214T061156Z
+SUMMARY:△ Sol Trígono Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol trígono ☋ Nodo Sur.\n\nFluid
+ ez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo trop
+ ical geocéntrico por interpolación diaria. Nota: este prototipo separa a
+ spectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3d2ad33c80c36111@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261218T212106Z
+DTEND:20261218T222106Z
+SUMMARY:△ Sol Trígono Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol trígono ♃ Júpiter.\n\nFluide
+ z: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tropi
+ cal geocéntrico por interpolación diaria. Nota: este prototipo separa as
+ pectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5afbfaf3a9f089a7@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261220T162716Z
+DTEND:20261220T172716Z
+SUMMARY:△ Mercurio Trígono Nodo Sur
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio trígono ☋ Nodo Sur.\n\n
+ Fluidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo
+  tropical geocéntrico por interpolación diaria. Nota: este prototipo sep
+ ara aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c1b8af5cff2c0b0b@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261223T180235Z
+DTEND:20261223T190235Z
+SUMMARY:△ Mercurio Trígono Júpiter
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio trígono ♃ Júpiter.\n\nF
+ luidez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo 
+ tropical geocéntrico por interpolación diaria. Nota: este prototipo sepa
+ ra aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:147fabe819b68762@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261231T120030Z
+DTEND:20261231T130030Z
+SUMMARY:△ Sol Trígono Marte
+DESCRIPTION:Aspecto exacto aproximado: ☉ Sol trígono ♂ Marte.\n\nFluidez:
+  aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tropica
+ l geocéntrico por interpolación diaria. Nota: este prototipo separa aspe
+ ctos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9b13977ca17cc190@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261231T232952Z
+DTEND:20270101T002952Z
+SUMMARY:△ Mercurio Trígono Marte
+DESCRIPTION:Aspecto exacto aproximado: ☿ Mercurio trígono ♂ Marte.\n\nFlu
+ idez: aprovechá el impulso\, sin dormirte en la comodidad.\n\nCálculo tr
+ opical geocéntrico por interpolación diaria. Nota: este prototipo separa
+  aspectos lunares rápidos y conserva fases/eclipses para la Luna.
+CATEGORIES:Aspecto\,Trígono
+COLOR:blue
+X-APPLE-CALENDAR-COLOR:blue
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
